@@ -15,7 +15,11 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+<<<<<<< HEAD
     gap: 30px;
+=======
+    gap: 20px;
+>>>>>>> 76538b639113fa0c6fc48305d7e477b99fdbc8fd
     transition: all 1s ease-in;
 }
 .clock{
